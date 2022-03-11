@@ -7,7 +7,11 @@
 #### ENCFF000VIR
 ![Снимок экрана от 2022-03-11 11-33-19](https://user-images.githubusercontent.com/93282657/157831720-58fdf41f-576c-4def-a1dc-d972cb45ab70.png)
 ![Снимок экрана от 2022-03-11 11-37-09](https://user-images.githubusercontent.com/93282657/157831947-9579e1b7-cc84-4082-ab30-301f45f075b7.png)
-![Снимок экрана от 2022-03-11 11-45-18](https://user-images.githubusercontent.com/93282657/157833542-87c548af-23be-461e-9450-d623c347190d.png)
+![Снимок экрана от 2022-03-11 12-53-55](https://user-images.githubusercontent.com/93282657/157844290-1e86c7f5-4d76-4df9-9f93-f46afe849d14.png)
+![Снимок экрана от 2022-03-11 12-54-03](https://user-images.githubusercontent.com/93282657/157844295-0e509077-6fd5-437d-81a9-0a4f8975f82b.png)
+![Снимок экрана от 2022-03-11 12-54-12](https://user-images.githubusercontent.com/93282657/157844304-e8ad25f9-7f1d-4da0-b507-0b871ae69704.png)
+![Снимок экрана от 2022-03-11 12-54-19](https://user-images.githubusercontent.com/93282657/157844317-9291edb2-bb4f-4f0c-8df6-a47f7d51838d.png)
+
 
 В отчете обнаружилось одно предупреждение и одна ошибка:
 1) ошибка Per tile sequence quality
@@ -19,6 +23,8 @@ Per base sequence quality прошел проверку, эта характер
 ![Снимок экрана от 2022-03-11 11-57-48](https://user-images.githubusercontent.com/93282657/157835184-c505253e-a6b8-4c45-9eb8-5a4f954cb873.png)
 ![Снимок экрана от 2022-03-11 11-58-45](https://user-images.githubusercontent.com/93282657/157835275-2a210d6b-380f-40f9-82ed-b8eee0e6d24d.png)
 ![Снимок экрана от 2022-03-11 12-01-01](https://user-images.githubusercontent.com/93282657/157835691-428462f5-dfbe-49ee-80db-958b2a9d6ab3.png)
+![Снимок экрана от 2022-03-11 12-56-03](https://user-images.githubusercontent.com/93282657/157844622-c0f71259-1015-4697-90fa-560ed9898611.png)
+![Снимок экрана от 2022-03-11 12-56-12](https://user-images.githubusercontent.com/93282657/157844632-811e686c-6767-4cab-9e14-45776cd975da.png)
 ![Снимок экрана от 2022-03-11 12-01-10](https://user-images.githubusercontent.com/93282657/157835699-9f425244-1f20-454d-b4de-39ea57b2b5b9.png)
 
 Всего 3 предупреждения и нет ошибок. Per base sequence quality так же показывает хорошее качество. Можно не редактировать файл.
