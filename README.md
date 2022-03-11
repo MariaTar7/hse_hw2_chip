@@ -2,6 +2,10 @@
 
 Ссылка на колаб: https://colab.research.google.com/drive/1OkTINcEtY4aURBlSBg1zbTKVBgxJkx_h?usp=sharing
 
+Клеточная линия |	Гистоновая Метка|	Реплика 1 (ID fastq файла) | Реплика 2(ID fastq файла) | Контроль (ID fastq файла) |
+ --- |--- |--- |--- |---  
+Panc1	| H3K4me1 |	ENCFF000VIP |	ENCFF000VIR	| ENCFF000VJK |
+
 
 ## FastQC отчеты
 #### ENCFF000VIR
